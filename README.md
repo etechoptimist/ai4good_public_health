@@ -6,3 +6,10 @@ Key Features:
 -Demographic Analysis: Explore the gender and age breakdown of cases using histograms and other visual analytics.
 -Data-Driven Insights: Utilize AI and data science methodologies to inform public health decisions and strategies.
 -AI for Good: Contribute to the global effort in using AI for positive social impact, particularly in enhancing public health responses.
+
+
+## Connect with me:
+[![GitHub icon](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/etechoptimist) | [![LinkedIn icon](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/etechoptimist) | [![Twitter icon](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/etechoptimist)
+
+---
+Explore more articles on [Medium](https://medium.com/@etechoptimist) and follow my GitHub for AI projects.
